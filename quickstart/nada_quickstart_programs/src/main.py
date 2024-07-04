@@ -30,7 +30,3 @@ def nada_main():
     output_is_low = Output(is_low, "is_low", party1)
 
     return [output_hemoglobin_level, output_is_low]
-
-# Call the main function to execute the program
-nada_main()
-
